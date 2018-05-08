@@ -1,6 +1,8 @@
 # Hi! :wave:
 # My name is ![inline](img/twitter.png)@folone
 
+[https://github.com/folone/london-scala](https://github.com/folone/london-scala)
+
 ![](https://photos-1.dropbox.com/t/2/AADBqmrMfidEEdG3GocJyF3TTwSmGPfGVNe3TswgUw01wQ/12/204761042/jpeg/32x32/3/1525741200/0/2/_ADS8576.jpg/EOqj15oBGK85IAIoAg/_4uEYMZ4XyXnFAC1irGfRBboiz-c6HNAQ81POInhq38?dl=0&size=32x32&size_mode=5)
 
 ^ Things to know about me
@@ -691,6 +693,8 @@ object writes extends LabelledProductTypeClassCompanion[Writes] with DefaultWrit
 ---
 
 # [fit] -?
+
+[https://github.com/folone/london-scala](https://github.com/folone/london-scala)
 
 ![](https://lh3.googleusercontent.com/dZLhFPYXBEC_jTy58MgF9_ch0iwgj-fmptbFj4qZHc6gOEAkp3LyIXuW24K4quLfMmEOvhv78Wu30dmDKKxj1bzulrw18hXza5uj4_JToFTZIsV60VZVFfLCtNEChvm23vWr4oqu7FxnwcrSmz13zqI4YIeIuH5wenO4D53l41fXTeRUx9nhSY-R6grtA19Y7EA9jqbBdB1Yv-p-iGbzLIZHWorGVq6hCEfCCOT_y6CaEEt7JgMKdg8YgcPTCKXQdVF74eSlOzWOg40Uauv_XBpZuyYosfBylqAQEA5l6hhoTzN6MxX2EZ6Qjk1meAIcaZ9CZtMF5xof2k1mHze0ipV7g_fvsOOaXr8HKtwXdztKghCdgiNsXslzGlVbRw8CRM2bwDQKUQPbfrCDfKxt8G9KN4d90mFEav2iISXdecQX3GdnmS_yrpbISL_dUGUoPhcbHiiLCXes_kNOxDZureLWQdSbFfVOdXubmc4zZUXApRXaxl3iElfgYWJb8DhQIxtmLPQvbnMVV7Q6U8iJQ-ZKAFvQ20WctcINB-e9HfOQldTevAybnOAYK6z7a20MfgoMX8waOUbyNJqHRicELIsijGAnZveG8j_2I7GIN6DW_AJPSoK6H6EZiF8Pj_f2H98V9fhb5fF_u1DBejKJN9WrPf1nn61k=w2410-h1606-no)
 
